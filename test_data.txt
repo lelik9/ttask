@@ -1,0 +1,2 @@
+private.enterprises.ucdavis.systemStats.ssCpuSystem,14
+private.enterprises.ucdavis.systemStats.ssCpuUser,1978

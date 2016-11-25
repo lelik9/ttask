@@ -1,0 +1,3 @@
+SNMPv2-MIB,sysDescr
+SNMPv2-MIB,sysName
+SNMPv2-MIB,sysUpTime
